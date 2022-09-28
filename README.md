@@ -1,10 +1,11 @@
-## 치타는 달린다
+![치타 짱](https://user-images.githubusercontent.com/105473305/192799269-86657487-48b7-41fb-bfdf-70bf27d8600e.gif)
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyojoonm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hyojoonm/hyojoonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
