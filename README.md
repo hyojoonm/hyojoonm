@@ -1,4 +1,8 @@
-![치타 짱](https://user-images.githubusercontent.com/105473305/192799269-86657487-48b7-41fb-bfdf-70bf27d8600e.gif)
+![리얼 치타](https://user-images.githubusercontent.com/105473305/192799549-54d5d8ea-bf43-419b-8fad-9f5ac2f598e4.gif)
+
+
+<br>
+
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyojoonm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
