@@ -1,4 +1,4 @@
-![리얼 치타](https://user-images.githubusercontent.com/105473305/192799549-54d5d8ea-bf43-419b-8fad-9f5ac2f598e4.gif)
+
 
 
 
